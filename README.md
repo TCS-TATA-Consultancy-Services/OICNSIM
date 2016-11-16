@@ -8,7 +8,9 @@ Table of Contents:
 ------------------
 
 1) Prerequiste
+
 2) Building OICNSIM
+
 3) Running OICNSIM exmaple
 
 1) Prerequiste:
