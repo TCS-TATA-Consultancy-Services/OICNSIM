@@ -56,7 +56,7 @@ Please do remember to cite us !
 
 [1] S. Shailendra, B. Panigrahi, H. K. Rath, and A. Simha, “A Novel Overlay Architecture for Information Centric Networking,” in Twenty First IEEE National Conference on Communications (NCC), pp. 1–6, 2015.
 
-[2] Suvrat Agrawal, Samar Shailendra, Anirudh Morabagal, Bighnaraj Panigrahi, Hemant Kumar Rath, Anantha Simha, “Overlay ICN Simulator (OICNSIM),” https://github.com/TCS-Research/OICNSIM.
+[2] Suvrat Agrawal, Samar Shailendra, Anirudh Morabagal, Bighnaraj Panigrahi, Hemant Kumar Rath, Anantha Simha, “Overlay ICN Simulator (OICNSIM),” https://github.com/tata-consulting-services/OICNSIM.
 
 	____________________________________________________
 	 Copyright 2016 | Tata Consultancy Services Limited
